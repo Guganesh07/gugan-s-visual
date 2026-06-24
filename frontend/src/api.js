@@ -1,4 +1,4 @@
-const API_BASE = '/api'
+const API_BASE = 'https://genz-clicks-backend.onrender.com/api'
 
 // A simple persistent client id so "My Orders" can show this visitor's
 // orders without requiring a login system.
