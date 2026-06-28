@@ -1,4 +1,4 @@
-# Shutterline Studio — Photography Website
+# Gugan visual — Photography Website
 
 A full-stack photography studio site: React + Vite frontend, Express + MongoDB backend.
 
