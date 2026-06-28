@@ -1,6 +1,6 @@
 const PHONE = '+91 9597688310'
 const PHONE_DIAL = '+919597688310'
-const WHATSAPP = 'https://wa.me/919597688310?text=Hi%20Shutterline%20Studio%2C%20I%27d%20like%20to%20know%20more%20about%20your%20shoots'
+const WHATSAPP = 'https://wa.me/919597688310?text=Hi%20Guganvisual%20Photography%2C%20I%27d%20like%20to%20know%20more%20about%20your%20shoots'
 const EMAIL = 'guganguganesh0@gmail.com'
 
 export default function ContactUs() {
